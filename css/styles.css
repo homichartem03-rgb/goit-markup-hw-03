@@ -1,0 +1,207 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    color: #434455;
+    background-color: #fff;
+}
+
+ul, ol{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+/* ------------------------------HEADER AND FOOTER_LOGO-------------------------*/
+.logo{
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 1.16;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #4d5ae5;
+}
+
+.header-logo .logo-part{
+    color: #2e2f42;
+}
+
+.footer-logo .footer-logo-part{
+    color: #f4f4fd;
+} 
+
+/* ------------------------------NAVIGATION-------------------------*/
+
+.nav-link{
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.contacts-link:hover,
+.contacts-link:focus{
+    color: #404bbf;
+}
+
+.contacts{
+    font-style: normal;
+}
+
+.contacts-link{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #434455;
+}
+
+/* ------------------------------MAIN-------------------------*/
+
+.main-order{
+    background-color: #2e2f42;
+}
+
+.main-order-title{
+            font-weight: 700;
+            font-size: 56px;
+            line-height: 1.07;
+            letter-spacing: 0.02em;
+            text-align: center;
+            color: #fff;
+}
+
+.main-team-img{
+    background-color: #fff;
+}
+
+
+
+.order-button{
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            color: #fff;
+            background-color: #4d5ae5
+}
+
+.order-button:hover,
+.order-button:focus {
+    background-color: #404bbf;
+}
+
+.order-button{
+    cursor: pointer;
+}
+
+.order-button:hover,
+.order-button:focus{
+    background-color: #404bbf;
+}
+
+/* ------------------------------OUR FEATURES-------------------------*/
+
+.main-features-title{
+        font-weight: 500;
+            font-size: 20px;
+            line-height: 1.2;
+            letter-spacing: 0.02em;
+            text-align: center;
+            color: #2e2f42;
+}
+
+.main-features-text{
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            text-align: center;
+            color: #434455;
+}
+
+/* ------------------------------OUR TEAM-------------------------*/
+
+.main-team{
+    background-color: #f4f4fd;
+    }
+
+
+.main-team-title{
+                font-weight: 700;
+                font-size: 36px;
+                line-height: 1.11111;
+                letter-spacing: 0.02em;
+                text-align: center;
+                color: #2e2f42;
+}
+
+.main-team-img-title{
+        font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #2e2f42;
+}
+
+.main-team-img-text{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #434455;
+
+}
+
+
+/* ------------------------------PORTFOLIO-------------------------*/
+
+.main-portfolio{
+    background-color: #fff;
+}
+
+.main-portfolio-title{
+            font-weight: 700;
+            font-size: 36px;
+            line-height: 1.11111;
+            letter-spacing: 0.02em;
+            text-align: center;
+            color: #2e2f42;
+}
+
+.main-portfolio-img-title{
+            font-weight: 500;
+            font-size: 20px;
+            line-height: 1.2;
+            letter-spacing: 0.02em;
+            color: #2e2f42;
+}
+
+.main-portfolio-img-text{
+            font-weight: 400;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.02em;
+            color: #434455;
+}
+
+/* ------------------------------FOOTER-------------------------*/
+
+.page-footer{
+    background-color: #2e2f42;
+}
+
+.footer-text{
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color:#f4f4fd;
+}
+
