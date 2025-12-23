@@ -108,6 +108,8 @@ a{
 }
 
 .contacts-link{
+    display: block;
+    padding: 24px 0;
         font-weight: 400;
         font-size: 16px;
         line-height: 1.5;
@@ -178,6 +180,7 @@ a{
     clip: rect(0 0 0 0);
     white-space: nowrap;
     border: 0;
+    clip-path: inset(100%);
 }
 
 .main-features-title{
@@ -270,7 +273,7 @@ a{
 }
 
 .main-team-card{
-    padding: 32px 0;
+    padding: 32px 16px;
     text-align: center;
 }
 
@@ -338,7 +341,7 @@ a{
 }
 
 .main-portfolio-card{
-    padding: 32px 0;
+    padding: 32px 16px;
     border-left: 1px solid #e7e9fc;
         border-right: 1px solid #e7e9fc;
         border-bottom: 1px solid #e7e9fc;
