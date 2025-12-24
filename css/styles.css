@@ -311,6 +311,7 @@ a{
 
 .main-portfolio-img-title{
     display: block;
+    margin-bottom: 8px;
     max-width: 232px;
             font-weight: 500;
             font-size: 20px;
